@@ -11,7 +11,7 @@
 
 ## 🐱‍👤 About me
 
-I'm a Software Development Technologist with experience in a corporate IT enviroment,
+I'm a Software Development Technologist with experience in a corporate IT environment,
 working with ticket management, JML processes, SLA/KPI monitoring, dashboards and Excel.
 
 I also enjoy building software and automation solutions with Pythom, Django, SQL and data
@@ -19,7 +19,7 @@ processing tools.
 
 Currently interested in:
 
-`IT Support` · `Service Desk` · `IT Operations` · `Applitacion Support`
+`IT Support` · `Service Desk` · `IT Operations` · `Application Support`
 
 ---
 
