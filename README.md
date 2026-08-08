@@ -37,6 +37,10 @@ Currently interested in:
   <img src="https://cdn.simpleicons.org/postgresql/ffffff" width="40" alt="PostgreSQL">
   <img src="https://cdn.simpleicons.org/pandas/ffffff" width="40" alt="Pandas">
   <img src="https://cdn.simpleicons.org/git/ffffff" width="40" alt="Git">
+  <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" alt="Html">
+  <img src="https://cdn.simpleicons.org/css/ffffff" width="40" alt="Css">
+  <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" alt="Js">
+  <img src="https://cdn.simpleicons.org/trae/ffffff" width="40" alt="Trae">
 </p>
 
 ---
