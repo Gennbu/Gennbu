@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Bogotá, Colombia CO
+  Bogotá, Colombia
 </p>
 
 ---
@@ -30,7 +30,7 @@ Currently interested in:
 
 ### IT & Operations
 
-`ServiceDesk Plus` · `Excel` · `Zoho Analytics` · `Microsoft Teams` · `Jira`
+`ServiceDesk Plus` · `Excel` · `Zoho Analytics` · `Microsoft Teams`
 
 ### Development
 
