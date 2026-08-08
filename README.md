@@ -17,7 +17,7 @@
 I'm a Software Development Technologist with experience in a corporate IT enviroment,
 working with ticket management, JML processes, SLA/KPI monitoring, dashboards and Excel.
 
-I also enjoy building software and automation solutions with Pytohm Django, SQL and data
+I also enjoy building software and automation solutions with Pythom, Django, SQL and data
 processing tools.
 
 Currently interested in:
