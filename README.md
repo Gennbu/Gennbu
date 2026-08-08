@@ -23,7 +23,7 @@ Currently interested in:
 
 ---
 
-## ⚙ Technologies & Tools
+## ⚙ ToolKit & Technologies
 
 ### IT & Operations
 
@@ -65,7 +65,7 @@ Built with:
 
 ---
 
-<h2> 📡 Let's connect</h2>
+<h2> 📡 Connect with me! </h2>
 
 <p>
   <a href="https://www.linkedin.com/in/jorge-vargas-b70b07378/">
