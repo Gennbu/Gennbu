@@ -3,10 +3,7 @@
 <p align="center"><i>aka Gennbü</i></p>
 
 <p align="center">
-  <strong>IT Operations · Service Desk · Software Development</strong>
-</p>
-
-<p align="center">
+  <strong>IT Operations · Service Desk · Software Development</strong><br>
   Bogotá, Colombia
 </p>
 
