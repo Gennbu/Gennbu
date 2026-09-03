@@ -92,7 +92,9 @@ Built with:
 <p align="center">
   🎵 Currently listening to MF DOOM & Nujabes 🎵
 </p>
-
+<p align="center">
+  A healthy soul resides in a healthy mind and a healthy body.
+</p>
 
 
 
