@@ -68,7 +68,7 @@ Built with:
 
 <a href="https://github.com/Gennbu/Grimorask">
     <img
-      src="https://img.shields.io/badge/GitHub-Check_It_Out-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-Grimorask-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="Grimorask"
     />
   </a>
