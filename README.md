@@ -59,7 +59,7 @@ Built with:
 <a href="https://github.com/Gennbu/JML-Dashboard">
     <img
       src="https://img.shields.io/badge/GitHub-Check_It_Out-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      alt="JML Dashboard"
     />
   </a>
 
@@ -69,7 +69,7 @@ Built with:
 <a href="https://github.com/Gennbu/Grimorask">
     <img
       src="https://img.shields.io/badge/GitHub-Check_It_Out-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      alt="Grimorask"
     />
   </a>
 
