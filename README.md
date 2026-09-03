@@ -40,7 +40,7 @@ Currently interested in:
   <img src="https://cdn.simpleicons.org/html5/ffffff" width="40" alt="Html">
   <img src="https://cdn.simpleicons.org/css/ffffff" width="40" alt="Css">
   <img src="https://cdn.simpleicons.org/javascript/ffffff" width="40" alt="Js">
-  <img src="https://cdn.simpleicons.org/trae/ffffff" width="40" alt="Trae">
+  <img src="https://cdn.simpleicons.org/cursor/ffffff" width="40" alt="Cursor">
 </p>
 
 ---
@@ -57,6 +57,16 @@ Built with:
 `Python` · `Django` · `Pandas` · `PostgreSQL`
 
 <a href="https://github.com/Gennbu/JML-Dashboard">
+    <img
+      src="https://img.shields.io/badge/GitHub-Check_It_Out-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+
+### More Projects!
+
+<a href="https://github.com/Gennbu/Grimorask">
     <img
       src="https://img.shields.io/badge/GitHub-Check_It_Out-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
